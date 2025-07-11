@@ -37,4 +37,3 @@ MinIO Console: http://localhost:9001 (user: minioadmin, pass: minioadmin)
 
 docker-compose.yml: Brings up entire stack
 
-Made with ❤️ by Manthan Maidawat
